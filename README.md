@@ -3,11 +3,11 @@ Di Lu: Houdini Terrain Homework
 
 Pt 1: More Interesting Terrain: 
 
-## bolded nodes are the nodes I added
+**bolded nodes are the nodes I added
 
 1. heightfield1 = plane
 2. heightfield_noise1 = noise function over plane
-## 3. heightfield_noise2 
+3. **heightfield_noise2** 
 4. heightfield_masknoise = mask over height 
 5. heightfield_slump1 = smoothed valleys of terrmain
 6. attribdelete1 = ??
