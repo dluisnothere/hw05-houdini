@@ -1,3 +1,22 @@
+Di Lu: Houdini Terrain Homework
+=================
+
+Default Nodes from Playground: 
+
+1. heightfield1 = plane
+2. heightfield_noise = noise function over plane
+3. heightfield_masknoise = mask over height 
+4. heightfield_slump1 = smoothed valleys of terrmain
+5. attribdelete1 = ??
+6. remesh = remeshed the height map
+7. facet2?
+8. Add primitive scatters to the scene
+9. Scatter node = decides scatter pattern of geometry
+10. colored scatter nodes = randomly colored scatter nodes? \
+11. copytopoints2 = copies primitives to the points and colors them based on their scatter colors
+12. Mergenode = with terrain plane
+13. output!
+
 # hw05-houdini
 
 ## Goal
