@@ -22,8 +22,11 @@ Pt 1: More Interesting Terrain:
 15. colored scatter nodes = randomly colored scatter nodes? \
 16. copytopoints2 = copies primitives to the points and colors them based on their scatter colors
 17. **heightfield2**
-18. Mergenode = with terrain plane
-19. output!
+18. **heightfield_noise3**
+19. **heightfield_transform**
+20. **mergenode** 
+21. Mergenode = with terrain plane
+22. output!
 
 Pt2: Scene Objects
 
