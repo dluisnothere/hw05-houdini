@@ -7,18 +7,25 @@ Pt 1: More Interesting Terrain:
 
 1. heightfield1 = plane
 2. heightfield_noise1 = noise function over plane
-**3. heightfield_noise2** 
+3. **heightfield_noise2** = noise function 2 over plane
 4. heightfield_masknoise = mask over height 
 5. heightfield_slump1 = smoothed valleys of terrmain
-6. attribdelete1 = ??
-7. remesh = remeshed the height map
-8. facet2?
-9. Add primitive scatters to the scene
-10. Scatter node = decides scatter pattern of geometry
-11. colored scatter nodes = randomly colored scatter nodes? \
-12. copytopoints2 = copies primitives to the points and colors them based on their scatter colors
-13. Mergenode = with terrain plane
-14. output!
+6. **heightfield_clip1**
+7. **heightfield_erode**
+8. **heightfield_flowfield1**
+9. **heightfield_slump2 **
+10. attribdelete1 = ??
+11. remesh = remeshed the height map
+12. facet2?
+13. Add primitive scatters to the scene
+14. Scatter node = decides scatter pattern of geometry
+15. colored scatter nodes = randomly colored scatter nodes? \
+16. copytopoints2 = copies primitives to the points and colors them based on their scatter colors
+17. **heightfield2**
+18. Mergenode = with terrain plane
+19. output!
+
+Pt2: Scene Objects
 
 # hw05-houdini
 
